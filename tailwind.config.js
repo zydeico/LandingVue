@@ -4,6 +4,7 @@ module.exports = {
   separator: ':',
   theme: {
     screens: {
+      xms: '400',
       sm: '640px',
       md: '768px',
       lg: '1024px',
@@ -14,6 +15,9 @@ module.exports = {
 
       black: '#000',
       white: '#fff',
+
+      // Personal colors
+      bluePersonal: '#75B2FF',
 
       gray: {
         100: '#f7fafc',
@@ -249,6 +253,9 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      'display': [
+        'Source Sans Pro',
+    ],
     },
     fontSize: {
       xs: '0.75rem',
