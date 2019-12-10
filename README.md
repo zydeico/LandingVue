@@ -1,4 +1,4 @@
-# landingtest
+# Web page of Deliverroo clone using Vue.js and Tailwind
 
 ## Project setup
 ```
