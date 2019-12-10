@@ -1,4 +1,4 @@
-# Web page of Deliverroo clone using Vue.js and Tailwind
+# Web page of Deliveroo clone using Vue.js and Tailwind
 
 ## Project setup
 ```
