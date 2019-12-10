@@ -18,6 +18,7 @@ module.exports = {
 
       // Personal colors
       bluePersonal: '#75B2FF',
+      greenSeaLight: '#00a396',
 
       gray: {
         100: '#f7fafc',
