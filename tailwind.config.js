@@ -130,6 +130,9 @@ module.exports = {
         800: '#97266d',
         900: '#702459',
       },
+      personal: {
+        100: '#ffeae4',
+      }
     },
     spacing: {
       px: '1px',
